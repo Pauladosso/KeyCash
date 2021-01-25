@@ -8,8 +8,8 @@ Seu acesso pode ser feito com as credenciais abaixo:
 
 Host: keycash.cjnofhg95qvn.us-east-2.rds.amazonaws.com  
 Porta: 5432  
-Usuário: - 
-Senha:  -
+Usuário: postgres  
+Senha:  Keycash2021  
 Banco: Keycash
 
 O banco de dados permanecerá ativo até 15.02.
