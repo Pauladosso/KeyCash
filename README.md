@@ -8,8 +8,8 @@ Seu acesso pode ser feito com as credenciais abaixo:
 
 Host: keycash.cjnofhg95qvn.us-east-2.rds.amazonaws.com  
 Porta: 5432  
-Usuário:  
-Senha:  
+Usuário: - 
+Senha:  -
 Banco: Keycash
 
 O banco de dados permanecerá ativo até 15.02.
@@ -69,7 +69,7 @@ Para a resolução do desafio 2, utilizei o Jupyter-Notebook.
 
 O desafio consiste em criar um modelo de precificação com as informações da base de dados [Desafio2_input](datasets/Desafio2_input.csv) com auxílio de suas descrições [Descrição dos dados](datasets/Descrição_dos_dados.txt).  
 
-Todo o desenvolvimento do modelo de precificação proposto pode ser encontrado comentado detalhadmente em [desafio2-python](desafio2-python/desafio2.ipynb).  
+Todo o desenvolvimento do modelo de precificação proposto pode ser encontrado comentado detalhadamente em [desafio2-python](desafio2-python/desafio2.ipynb).  
 
 
 ## Pontos de melhoria:  
