@@ -65,7 +65,7 @@ ON vm.id_bairro = nb.id_bairro;
   
  ## **Desafio 2**
 
-Para a resolução do desafio 2, utilizei a aplicação web Jupyter-Notebook.  
+Para a resolução do desafio 2, utilizei o Jupyter-Notebook.  
 
 O desafio consiste em criar um modelo de precificação com as informações da base de dados [Desafio2_input](datasets/Desafio2_input.csv) com auxílio de suas descrições [Descrição dos dados](datasets/Descrição_dos_dados.txt).  
 
